@@ -6,7 +6,3 @@ var euroToYen = function(euroValue){
 }
 //***** YOUR CODE BELOW ↓ ******///
 
-var dollarToYen1 = dollarToEuro(137);
-var dollarToYen2 = euroToYen(dollarToYen1);
-
-console.log(dollarToYen2);
